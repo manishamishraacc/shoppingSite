@@ -1,0 +1,18 @@
+2020-05-20 11:51:17,462 - TestBase -INFO - Entered new user email
+2020-05-20 11:51:17,628 - TestBase -INFO - enter after emailid
+2020-05-20 11:51:19,495 - TestBase -INFO - Entered first name
+2020-05-20 11:51:19,576 - TestBase -INFO - Entered last name
+2020-05-20 11:51:19,690 - TestBase -INFO - Entered password
+2020-05-20 11:51:19,855 - TestBase -INFO - Entered adress
+2020-05-20 11:51:19,959 - TestBase -INFO - Entered city
+2020-05-20 11:51:20,542 - TestBase -INFO - state selected
+2020-05-20 11:51:20,652 - TestBase -INFO - Entered zip
+2020-05-20 11:51:20,775 - TestBase -INFO - Entered phone
+2020-05-20 11:51:22,710 - TestBase -INFO - user created after all infor provided
+2020-05-20 12:02:52,336 - TestBase -INFO - User on sign in page
+2020-05-20 12:03:04,868 - TestBase -INFO - User logged in
+2020-05-20 12:03:12,183 - TestBase -INFO - User navigated to home page
+2020-05-20 12:03:14,092 - TestBase -INFO - mouse hover on a product
+2020-05-20 12:03:14,232 - TestBase -INFO - click on quick  view
+2020-05-20 12:03:29,980 - TestBase -INFO - add to cart
+2020-05-20 12:03:33,374 - TestBase -INFO - proceed checkout
