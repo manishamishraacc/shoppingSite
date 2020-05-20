@@ -16,3 +16,13 @@
 2020-05-20 12:03:14,232 [main] INFO TestBase - click on quick  view
 2020-05-20 12:03:29,980 [main] INFO TestBase - add to cart
 2020-05-20 12:03:33,374 [main] INFO TestBase - proceed checkout
+2020-05-20 15:14:39,472 [main] INFO TestBase - User on sign in page
+2020-05-20 15:14:51,435 [main] INFO TestBase - User logged in
+2020-05-20 15:14:54,008 [main] INFO TestBase - User navigated to home page
+2020-05-20 15:14:54,287 [main] INFO TestBase - mouse hover on a product
+2020-05-20 15:14:54,391 [main] INFO TestBase - click on quick  view
+2020-05-20 15:15:09,699 [main] INFO TestBase - add to cart
+2020-05-20 15:15:09,799 [main] INFO TestBase - Total cost
+2020-05-20 15:15:14,543 [main] INFO TestBase - proceed checkout
+2020-05-20 15:15:14,606 [main] INFO TestBase - $35.02Total cost
+2020-05-20 15:15:22,718 [main] INFO TestBase - $35.02Total cost

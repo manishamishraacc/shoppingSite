@@ -52,12 +52,15 @@ public class LoginUser extends TestBase {
 		selectandpayObj.addToCart();
 		logger.info("add to cart");
 		driver.switchTo().defaultContent();
+		getText("xpath","//div[@class='layer_cart_row']//span[@class='ajax_block_cart_total']");
 		selectandpayObj.checkOut();
 		logger.info("proceed checkout");
+		getText("xpath", "//tfoot/tr[7]/td[2]");
 		selectandpayObj.checkoutPannel();
 		selectandpayObj.checkOut_address();
 		selectandpayObj.termnconition();
 		selectandpayObj.checkOut_carrier();
+		getText("xpath", "//tfoot/tr[@class='cart_total_price'][2]//td[2]");
 		selectandpayObj.paymentOption();
 		selectandpayObj.confirmOrder();
 		MyProfileActionobj.myProfileBtn();
